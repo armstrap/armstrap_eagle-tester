@@ -1,0 +1,146 @@
+Partlist
+
+Exported from armstrap_eagle-tester_1.0.0.sch at 12/7/14 9:47 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package      Library  Sheet
+
+FTDI_1                  PINHD-1X1  1X01         pinhead  1
+FTDI_2                  PINHD-1X1  1X01         pinhead  1
+FTDI_3                  PINHD-1X1  1X01         pinhead  1
+FTDI_4                  PINHD-1X1  1X01         pinhead  1
+FTDI_5                  PINHD-1X1  1X01         pinhead  1
+FTDI_6                  PINHD-1X1  1X01         pinhead  1
+FTDI_7                  PINHD-1X1  1X01         pinhead  1
+FTDI_8                  PINHD-1X1  1X01         pinhead  1
+FTDI_9                  PINHD-1X1  1X01         pinhead  1
+FTDI_10                 PINHD-1X1  1X01         pinhead  1
+FTDI_11                 PINHD-1X1  1X01         pinhead  1
+FTDI_12                 PINHD-1X1  1X01         pinhead  1
+GND-                    PINHD-1X1  1X01         pinhead  1
+GND-1                   PINHD-1X1  1X01         pinhead  1
+LED1     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED2     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED3     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED4     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED5     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED6     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED7     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED8     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED9     APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED10    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED11    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED12    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED13    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED14    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED15    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED16    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED21    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED22    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED23    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED24    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED25    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED26    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED27    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED28    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED29    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED30    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED31    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED32    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED33    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED34    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED35    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED36    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED37    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED38    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED39    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+LED40    APT3216QBC/D   LED1206    CHIPLED_1206 vovtech  1
+NC                      PINHD-1X1  1X01         pinhead  1
+NC1                     PINHD-1X1  1X01         pinhead  1
+NRST                    PINHD-1X1  1X01         pinhead  1
+NRST1                   PINHD-1X1  1X01         pinhead  1
+P1                      PINHD-1X1  1X01         pinhead  1
+P2                      PINHD-1X1  1X01         pinhead  1
+P3                      PINHD-1X1  1X01         pinhead  1
+P4                      PINHD-1X1  1X01         pinhead  1
+P5                      PINHD-1X1  1X01         pinhead  1
+P6                      PINHD-1X1  1X01         pinhead  1
+P7                      PINHD-1X1  1X01         pinhead  1
+P8                      PINHD-1X1  1X01         pinhead  1
+P9                      PINHD-1X1  1X01         pinhead  1
+P10                     PINHD-1X1  1X01         pinhead  1
+P11                     PINHD-1X1  1X01         pinhead  1
+P12                     PINHD-1X1  1X01         pinhead  1
+P13                     PINHD-1X1  1X01         pinhead  1
+P14                     PINHD-1X1  1X01         pinhead  1
+P15                     PINHD-1X1  1X01         pinhead  1
+P16                     PINHD-1X1  1X01         pinhead  1
+P17                     PINHD-1X1  1X01         pinhead  1
+P18                     PINHD-1X1  1X01         pinhead  1
+P19                     PINHD-1X1  1X01         pinhead  1
+P20                     PINHD-1X1  1X01         pinhead  1
+P21                     PINHD-1X1  1X01         pinhead  1
+P22                     PINHD-1X1  1X01         pinhead  1
+P23                     PINHD-1X1  1X01         pinhead  1
+P24                     PINHD-1X1  1X01         pinhead  1
+P25                     PINHD-1X1  1X01         pinhead  1
+P26                     PINHD-1X1  1X01         pinhead  1
+P27                     PINHD-1X1  1X01         pinhead  1
+P28                     PINHD-1X1  1X01         pinhead  1
+P29                     PINHD-1X1  1X01         pinhead  1
+P30                     PINHD-1X1  1X01         pinhead  1
+P31                     PINHD-1X1  1X01         pinhead  1
+P32                     PINHD-1X1  1X01         pinhead  1
+P33                     PINHD-1X1  1X01         pinhead  1
+P34                     PINHD-1X1  1X01         pinhead  1
+P35                     PINHD-1X1  1X01         pinhead  1
+P36                     PINHD-1X1  1X01         pinhead  1
+P37                     PINHD-1X1  1X01         pinhead  1
+P38                     PINHD-1X1  1X01         pinhead  1
+P39                     PINHD-1X1  1X01         pinhead  1
+P40                     PINHD-1X1  1X01         pinhead  1
+R1       390            RES0805    0805         vovtech  1
+R2       390            RES0805    0805         vovtech  1
+R3       390            RES0805    0805         vovtech  1
+R4       390            RES0805    0805         vovtech  1
+R5       390            RES0805    0805         vovtech  1
+R6       390            RES0805    0805         vovtech  1
+R7       390            RES0805    0805         vovtech  1
+R8       390            RES0805    0805         vovtech  1
+R9       390            RES0805    0805         vovtech  1
+R10      390            RES0805    0805         vovtech  1
+R11      390            RES0805    0805         vovtech  1
+R12      390            RES0805    0805         vovtech  1
+R13      390            RES0805    0805         vovtech  1
+R14      390            RES0805    0805         vovtech  1
+R15      390            RES0805    0805         vovtech  1
+R16      390            RES0805    0805         vovtech  1
+R21      390            RES0805    0805         vovtech  1
+R22      390            RES0805    0805         vovtech  1
+R23      390            RES0805    0805         vovtech  1
+R24      390            RES0805    0805         vovtech  1
+R25      390            RES0805    0805         vovtech  1
+R26      390            RES0805    0805         vovtech  1
+R27      390            RES0805    0805         vovtech  1
+R28      390            RES0805    0805         vovtech  1
+R29      390            RES0805    0805         vovtech  1
+R30      390            RES0805    0805         vovtech  1
+R31      390            RES0805    0805         vovtech  1
+R32      390            RES0805    0805         vovtech  1
+R33      390            RES0805    0805         vovtech  1
+R34      390            RES0805    0805         vovtech  1
+R35      390            RES0805    0805         vovtech  1
+R36      390            RES0805    0805         vovtech  1
+R37      390            RES0805    0805         vovtech  1
+R38      390            RES0805    0805         vovtech  1
+R39      390            RES0805    0805         vovtech  1
+R40      390            RES0805    0805         vovtech  1
+SWCLK                   PINHD-1X1  1X01         pinhead  1
+SWCLK1                  PINHD-1X1  1X01         pinhead  1
+SWDIO                   PINHD-1X1  1X01         pinhead  1
+SWDIO1                  PINHD-1X1  1X01         pinhead  1
+SWO                     PINHD-1X1  1X01         pinhead  1
+SWO1                    PINHD-1X1  1X01         pinhead  1

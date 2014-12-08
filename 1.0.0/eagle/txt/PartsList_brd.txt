@@ -1,0 +1,149 @@
+Partlist
+
+Exported from armstrap_eagle-tester_1.0.0.brd at 12/7/14 9:47 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library  Position (inch)       Orientation
+
+FID2     FIDUCIAL       FIDUCIAL_1MM vovtech  (3 1.6)               R0
+FID3     FIDUCIAL       FIDUCIAL_1MM vovtech  (0.5 0.7)             R0
+FID4     FIDUCIAL       FIDUCIAL_1MM vovtech  (1.4 1.6)             R0
+FTDI_1                  1X01         pinhead  (2.55 0.55)           R0
+FTDI_2                  1X01         pinhead  (2.65 0.55)           R0
+FTDI_3                  1X01         pinhead  (2.75 0.55)           R0
+FTDI_4                  1X01         pinhead  (2.85 0.55)           R0
+FTDI_5                  1X01         pinhead  (2.95 0.55)           R0
+FTDI_6                  1X01         pinhead  (3.05 0.55)           R0
+FTDI_7                  1X01         pinhead  (2.55 0.25)           R90
+FTDI_8                  1X01         pinhead  (2.65 0.25)           R90
+FTDI_9                  1X01         pinhead  (2.75 0.25)           R90
+FTDI_10                 1X01         pinhead  (2.85 0.25)           R90
+FTDI_11                 1X01         pinhead  (2.95 0.25)           R90
+FTDI_12                 1X01         pinhead  (3.05 0.25)           R90
+GND-                    1X01         pinhead  (2.85 1.75)           R0
+GND-1                   1X01         pinhead  (2.85 2.05)           R90
+LED1     APT3216QBC/D   CHIPLED_1206 vovtech  (0.45 0.2)            R90
+LED2     APT3216QBC/D   CHIPLED_1206 vovtech  (0.55 0.2)            R90
+LED3     APT3216QBC/D   CHIPLED_1206 vovtech  (0.65 0.2)            R90
+LED4     APT3216QBC/D   CHIPLED_1206 vovtech  (0.75 0.2)            R90
+LED5     APT3216QBC/D   CHIPLED_1206 vovtech  (0.85 0.2)            R90
+LED6     APT3216QBC/D   CHIPLED_1206 vovtech  (0.95 0.2)            R90
+LED7     APT3216QBC/D   CHIPLED_1206 vovtech  (1.05 0.2)            R90
+LED8     APT3216QBC/D   CHIPLED_1206 vovtech  (1.15 0.2)            R90
+LED9     APT3216QBC/D   CHIPLED_1206 vovtech  (1.25 0.2)            R90
+LED10    APT3216QBC/D   CHIPLED_1206 vovtech  (1.35 0.2)            R90
+LED11    APT3216QBC/D   CHIPLED_1206 vovtech  (1.45 0.2)            R90
+LED12    APT3216QBC/D   CHIPLED_1206 vovtech  (1.55 0.2)            R90
+LED13    APT3216QBC/D   CHIPLED_1206 vovtech  (1.65 0.2)            R90
+LED14    APT3216QBC/D   CHIPLED_1206 vovtech  (1.75 0.2)            R90
+LED15    APT3216QBC/D   CHIPLED_1206 vovtech  (1.85 0.2)            R90
+LED16    APT3216QBC/D   CHIPLED_1206 vovtech  (1.95 0.2)            R90
+LED21    APT3216QBC/D   CHIPLED_1206 vovtech  (2.35 2.1)            R270
+LED22    APT3216QBC/D   CHIPLED_1206 vovtech  (2.25 2.1)            R270
+LED23    APT3216QBC/D   CHIPLED_1206 vovtech  (2.15 2.1)            R270
+LED24    APT3216QBC/D   CHIPLED_1206 vovtech  (2.05 2.1)            R270
+LED25    APT3216QBC/D   CHIPLED_1206 vovtech  (1.95 2.1)            R270
+LED26    APT3216QBC/D   CHIPLED_1206 vovtech  (1.85 2.1)            R270
+LED27    APT3216QBC/D   CHIPLED_1206 vovtech  (1.75 2.1)            R270
+LED28    APT3216QBC/D   CHIPLED_1206 vovtech  (1.65 2.1)            R270
+LED29    APT3216QBC/D   CHIPLED_1206 vovtech  (1.55 2.1)            R270
+LED30    APT3216QBC/D   CHIPLED_1206 vovtech  (1.45 2.1)            R270
+LED31    APT3216QBC/D   CHIPLED_1206 vovtech  (1.35 2.1)            R270
+LED32    APT3216QBC/D   CHIPLED_1206 vovtech  (1.25 2.1)            R270
+LED33    APT3216QBC/D   CHIPLED_1206 vovtech  (1.15 2.1)            R270
+LED34    APT3216QBC/D   CHIPLED_1206 vovtech  (1.05 2.1)            R270
+LED35    APT3216QBC/D   CHIPLED_1206 vovtech  (0.95 2.1)            R270
+LED36    APT3216QBC/D   CHIPLED_1206 vovtech  (0.85 2.1)            R270
+LED37    APT3216QBC/D   CHIPLED_1206 vovtech  (0.75 2.1)            R270
+LED38    APT3216QBC/D   CHIPLED_1206 vovtech  (0.65 2.1)            R270
+LED39    APT3216QBC/D   CHIPLED_1206 vovtech  (0.55 2.1)            R270
+LED40    APT3216QBC/D   CHIPLED_1206 vovtech  (0.45 2.1)            R270
+NC                      1X01         pinhead  (3.05 1.75)           R0
+NC1                     1X01         pinhead  (3.05 2.05)           R90
+NRST                    1X01         pinhead  (2.65 1.75)           R0
+NRST1                   1X01         pinhead  (2.65 2.05)           R90
+P1                      1X01         pinhead  (0.45 0.55)           R0
+P2                      1X01         pinhead  (0.55 0.55)           R90
+P3                      1X01         pinhead  (0.65 0.55)           R90
+P4                      1X01         pinhead  (0.75 0.55)           R90
+P5                      1X01         pinhead  (0.85 0.55)           R90
+P6                      1X01         pinhead  (0.95 0.55)           R90
+P7                      1X01         pinhead  (1.05 0.55)           R90
+P8                      1X01         pinhead  (1.15 0.55)           R90
+P9                      1X01         pinhead  (1.25 0.55)           R90
+P10                     1X01         pinhead  (1.35 0.55)           R90
+P11                     1X01         pinhead  (1.45 0.55)           R90
+P12                     1X01         pinhead  (1.55 0.55)           R90
+P13                     1X01         pinhead  (1.65 0.55)           R90
+P14                     1X01         pinhead  (1.75 0.55)           R90
+P15                     1X01         pinhead  (1.85 0.55)           R90
+P16                     1X01         pinhead  (1.95 0.55)           R90
+P17                     1X01         pinhead  (2.05 0.55)           R90
+P18                     1X01         pinhead  (2.15 0.55)           R90
+P19                     1X01         pinhead  (2.25 0.55)           R90
+P20                     1X01         pinhead  (2.35 0.55)           R90
+P21                     1X01         pinhead  (2.35 1.75)           R0
+P22                     1X01         pinhead  (2.25 1.75)           R0
+P23                     1X01         pinhead  (2.15 1.75)           R0
+P24                     1X01         pinhead  (2.05 1.75)           R0
+P25                     1X01         pinhead  (1.95 1.75)           R0
+P26                     1X01         pinhead  (1.85 1.75)           R0
+P27                     1X01         pinhead  (1.75 1.75)           R0
+P28                     1X01         pinhead  (1.65 1.75)           R0
+P29                     1X01         pinhead  (1.55 1.75)           R0
+P30                     1X01         pinhead  (1.45 1.75)           R0
+P31                     1X01         pinhead  (1.35 1.75)           R0
+P32                     1X01         pinhead  (1.25 1.75)           R0
+P33                     1X01         pinhead  (1.15 1.75)           R0
+P34                     1X01         pinhead  (1.05 1.75)           R0
+P35                     1X01         pinhead  (0.95 1.75)           R0
+P36                     1X01         pinhead  (0.85 1.75)           R0
+P37                     1X01         pinhead  (0.75 1.75)           R0
+P38                     1X01         pinhead  (0.65 1.75)           R0
+P39                     1X01         pinhead  (0.55 1.75)           R0
+P40                     1X01         pinhead  (0.45 1.75)           R0
+R1       390            0805         vovtech  (0.45 0.4)            R270
+R2       390            0805         vovtech  (0.55 0.4)            R270
+R3       390            0805         vovtech  (0.65 0.4)            R270
+R4       390            0805         vovtech  (0.75 0.4)            R270
+R5       390            0805         vovtech  (0.85 0.4)            R270
+R6       390            0805         vovtech  (0.95 0.4)            R270
+R7       390            0805         vovtech  (1.05 0.4)            R270
+R8       390            0805         vovtech  (1.15 0.4)            R270
+R9       390            0805         vovtech  (1.25 0.4)            R270
+R10      390            0805         vovtech  (1.35 0.4)            R270
+R11      390            0805         vovtech  (1.45 0.4)            R270
+R12      390            0805         vovtech  (1.55 0.4)            R270
+R13      390            0805         vovtech  (1.65 0.4)            R270
+R14      390            0805         vovtech  (1.75 0.4)            R270
+R15      390            0805         vovtech  (1.85 0.4)            R270
+R16      390            0805         vovtech  (1.95 0.4)            R270
+R21      390            0805         vovtech  (2.35 1.9)            R270
+R22      390            0805         vovtech  (2.25 1.9)            R270
+R23      390            0805         vovtech  (2.15 1.9)            R270
+R24      390            0805         vovtech  (2.05 1.9)            R270
+R25      390            0805         vovtech  (1.95 1.9)            R270
+R26      390            0805         vovtech  (1.85 1.9)            R270
+R27      390            0805         vovtech  (1.75 1.9)            R270
+R28      390            0805         vovtech  (1.65 1.9)            R270
+R29      390            0805         vovtech  (1.55 1.9)            R270
+R30      390            0805         vovtech  (1.45 1.9)            R270
+R31      390            0805         vovtech  (1.35 1.9)            R270
+R32      390            0805         vovtech  (1.25 1.9)            R270
+R33      390            0805         vovtech  (1.15 1.9)            R270
+R34      390            0805         vovtech  (1.05 1.9)            R270
+R35      390            0805         vovtech  (0.95 1.9)            R270
+R36      390            0805         vovtech  (0.85 1.9)            R270
+R37      390            0805         vovtech  (0.75 1.9)            R270
+R38      390            0805         vovtech  (0.65 1.9)            R270
+R39      390            0805         vovtech  (0.55 1.9)            R270
+R40      390            0805         vovtech  (0.45 1.9)            R270
+SWCLK                   1X01         pinhead  (2.95 1.75)           R0
+SWCLK1                  1X01         pinhead  (2.95 2.05)           R90
+SWDIO                   1X01         pinhead  (2.75 1.75)           R0
+SWDIO1                  1X01         pinhead  (2.75 2.05)           R90
+SWO                     1X01         pinhead  (2.55 1.75)           R0
+SWO1                    1X01         pinhead  (2.55 2.05)           R0
